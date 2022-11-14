@@ -1,6 +1,6 @@
 const main = (function(){
     // Varibales
-    const base_url = 'http://localhost:3000/api/products'
+    const base_url = 'byron-carvajal-store-api.up.railway.app/api/products'
 
 // DomCache
 
